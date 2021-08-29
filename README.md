@@ -1,8 +1,4 @@
- 👋 Hi, I’m @rqcoon
- 
-professionalism is a joke :)
-
-> ✨ lol ✨
+✨ hello ✨
 
 <!---
 rqcoon/rqcoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
